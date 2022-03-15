@@ -1,0 +1,22 @@
+
+body {
+background-color: #330000;
+background-image: url("https://cap.img.pmdstatic.net/fit/http.3A.2F.2Fprd2-bone-image.2Es3-website-eu-west-1.2Eamazonaws.2Ecom.2Fcap.2F2017.2F05.2F09.2Fc2ce4eaa-89c7-4bf1-b7fa-58bc85a99b4c.2Ejpeg/1200x630/background-color/ffffff/quality/70/cr/wqkgVG91cyBkcm9pdHMgcsOpc2VydsOpcyAvIENBUElUQUw%3D/comment-rediger-la-lettre-de-motivation-qui-fera-mouche-608459.jpg");
+background-attachment: fixed;
+background-size: cover;
+}
+.d-flex:hover {
+  cursor: pointer;
+}
+body {
+  color: white;
+}
+.card {
+  background: #ce2f64;
+}
+.modal-title {
+  color: black
+}
+.form-group {
+  color: black;
+}
